@@ -1,3 +1,5 @@
+<?php
+
 // https://docs.gravityforms.com/gform_validation 
 // https://controleerbtwnummer.eu/api
 add_filter('gform_validation_2', function ($validation_result) {
